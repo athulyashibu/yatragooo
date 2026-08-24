@@ -1,0 +1,6 @@
+{
+  "name": "VoyageGo - Travel & Tourism Platform",
+  "description": "Enterprise-grade travel booking platform featuring Flights, Hotels, Homestays, Packages, Buses, Trains, Cabs, AI Trip Planner, Travel Community & Admin Portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
